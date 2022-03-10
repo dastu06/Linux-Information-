@@ -1,2 +1,2 @@
-# Linux-Information-
+# Linux-Information
 Linux Information 
